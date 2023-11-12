@@ -10,7 +10,7 @@ Steps:
 4. Execute npm init via VS Code terminal //initiates new Node project
 5. Create README.md //this file!
 6. Create .gitignore file and add node.modules/ and .vscode
-7. Execute git add via VS Code terminal //stages files
+7. Execute (git add .)via VS Code terminal //stages files - note 'space' before full stop
 8. Execute git commit -m 'initial commit' via VS Code termial
 9. Create project on GitHub
 10. Execute git push via VS Code terminal
